@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="lang_labels">
+        <item>فارسی</item>
+        <item>انگلیسی</item>
+        <item>عربی</item>
+        <item>ترکی</item>
+        <item>فرانسوی</item>
+    </string-array>
+    <string-array name="lang_codes">
+        <item>fa</item>
+        <item>en</item>
+        <item>ar</item>
+        <item>tr</item>
+        <item>fr</item>
+    </string-array>
+</resources>

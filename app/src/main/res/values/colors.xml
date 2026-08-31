@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="teal">#0D9488</color>
+    <color name="teal_dark">#0F766E</color>
+    <color name="bg">#0F172A</color>
+    <color name="card">#1E293B</color>
+    <color name="text">#E2E8F0</color>
+    <color name="muted">#94A3B8</color>
+    <color name="red">#DC2626</color>
+    <color name="ic_launcher_background">#0D9488</color>
+</resources>
